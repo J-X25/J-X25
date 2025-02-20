@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-X25
 - 👀 I’m interested in learning how to code and becoming a developer.
-- 🌱 I’m currently learning Software Engineering through an IBM certification course.
+- 🌱 I’m currently learning IT Support, html and python.
 - 💞️ I’m looking to collaborate on anything I could help with and anything others see issues I'm having as well.
 - 📫 How to reach me abrahamj425@gmail.com
 - 😄 Pronouns: she/her
